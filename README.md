@@ -1,50 +1,71 @@
 <h1 align="center">Hi 👋, I'm Rishitha Gaddam</h1>
-<h3 align="center">A passionate Developer and CSE student at VNRVJIET</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer & CSE Student at VNRVJIET</h3>
 
-- 🌱 I’m currently learning **MERN stack, TypeScript, and Cloud Tools**
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
-- 🎯 Interests: **Product-based roles, scalable applications, ethical tech**
-- 📫 How to reach me: `rishithagaddam@gmail.com`
-- 📄 Know about my work: [Portfolio](https://your-portfolio-link)
-
----
-
-### 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+<p align="center">
+  <a href="https://github.com/Rishithagaddam">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Open+Source+Contributor;Always+learning+new+tech!;Cloud+and+TypeScript+Explorer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🔥 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Headliner** | Real-time news app with SerpAPI for top headlines & podcast links | MERN, SerpAPI, Tailwind |
-| **Library Management System** | PWA weather dashboard with real-time forecasts and charts | React, TypeScript, |
-| **BlogApp** |  | React, TypeScript, Chart.js |
-| **Foddie Website** |  | React, TypeScript, Chart.js |
-| **Gamified Habit Tracker Website** |  | React, TypeScript, Chart.js |
-| **Portfolio Website** | Minimal & interactive dev portfolio | React, Tailwind, Vite |
+- 🌱 I’m currently learning **MERN Stack, TypeScript, Cloud Tools**
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
+- 🎯 Interests: **Scalable Applications, Ethical Tech, Product-Based Roles**
+- 📫 Reach me at: `rishithagaddam@gmail.com`
+- 🌐 Explore my work: [Portfolio](https://your-portfolio-link)
 
 ---
 
-### 📊 GitHub Stats
+### ⚒️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,typescript,html,css,js,express,vite,figma" />
+</p>
+
+---
+
+### 🚀 Projects
+
+| 🚧 Project | 📄 Description | 🛠️ Tech Stack |
+|-----------|----------------|----------------|
+| **🔊 Headliner** | Real-time news and podcast site using SerpAPI, Tailwind | React, Node.js, MongoDB, SerpAPI, Tailwind |
+| **📚 Library Management System** | System to manage book inventory, issuing, and returns | React, Node.js, MongoDB |
+| **📝 BlogApp** | Full-featured blogging platform with user auth and rich editor | React, TypeScript, Express |
+| **🍔 Foodie Website** | Restaurant showcase with filtering, cart, and UI animations | React, CSS, JavaScript |
+| **🎯 Gamified Habit Tracker** | Webathon-winning tracker with gamification & gesture quiz | MERN, Tailwind, Chart.js |
+| **💼 Portfolio Website** | Personal interactive portfolio with smooth transitions | React, Vite, TailwindCSS |
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishithagaddam&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishithagaddam&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishithagaddam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishithagaddam&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishithagaddam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishithagaddam&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishitha-gaddam/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
-  <a href="mailto:rishithagaddam@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="gmail" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishitha-gaddam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rishithagaddam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Rishithagaddam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
+  </a>
 </p>
