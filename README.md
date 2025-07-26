@@ -25,7 +25,10 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **Headliner** | Real-time news app with SerpAPI for top headlines & podcast links | MERN, SerpAPI, Tailwind |
-| **Smart Weather** | PWA weather dashboard with real-time forecasts and charts | React, TypeScript, Chart.js |
+| **Library Management System** | PWA weather dashboard with real-time forecasts and charts | React, TypeScript, |
+| **BlogApp** |  | React, TypeScript, Chart.js |
+| **Foddie Website** |  | React, TypeScript, Chart.js |
+| **Gamified Habit Tracker Website** |  | React, TypeScript, Chart.js |
 | **Portfolio Website** | Minimal & interactive dev portfolio | React, Tailwind, Vite |
 
 ---
@@ -42,6 +45,6 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rishitha-gaddam/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
   <a href="mailto:rishithagaddam@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="gmail" /></a>
 </p>
