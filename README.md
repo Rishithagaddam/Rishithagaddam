@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishitha Gaddam</h1>
+<h3 align="center">A passionate Developer and CSE student at VNRVJIET</h3>
 
-<!--
-**Rishithagaddam/Rishithagaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MERN stack, TypeScript, and Cloud Tools**
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
+- 🎯 Interests: **Product-based roles, scalable applications, ethical tech**
+- 📫 How to reach me: `rishithagaddam@gmail.com`
+- 📄 Know about my work: [Portfolio](https://your-portfolio-link)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+</p>
+
+---
+
+### 🔥 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Headliner** | Real-time news app with SerpAPI for top headlines & podcast links | MERN, SerpAPI, Tailwind |
+| **Smart Weather** | PWA weather dashboard with real-time forecasts and charts | React, TypeScript, Chart.js |
+| **Portfolio Website** | Minimal & interactive dev portfolio | React, Tailwind, Vite |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishithagaddam&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishithagaddam&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:rishithagaddam@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="gmail" /></a>
+</p>
