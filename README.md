@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Rishithagaddam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Open+Source+Contributor;Always+learning+new+tech!;Cloud+and+TypeScript+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Open+Source+Contributor;Always+learning+new+tech!;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -48,11 +48,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishithagaddam&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
-</p>
 
 ---
 
