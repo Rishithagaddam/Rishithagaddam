@@ -35,6 +35,7 @@
 | **🎯 Gamified Habit Tracker** | Webathon-winning tracker with gamification & gesture quiz | MERN, Tailwind, Chart.js |
 | **💼 Portfolio Website** | Personal interactive portfolio with smooth transitions | React, Vite, TailwindCSS |
 | **🧠 ML Detector** | Detects **fire, falls, and objects** from **images and videos** using YOLOv5 | Python, OpenCV, Flask, YOLOv5 |
+| **💬 EchoHub** | GitHub-integrated collaborative communication platform for developers | MERN Stack, Socket.IO, GitHub API, Tailwind CSS |
 
 ---
 
