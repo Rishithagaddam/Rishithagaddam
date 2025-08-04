@@ -19,7 +19,7 @@
 
 ### ⚒️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,typescript,html,css,js,express,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,typescript,html,css,js,express,vite,figma,python,opencv" />
 </p>
 
 ---
@@ -34,6 +34,7 @@
 | **🍔 Foodie Website** | Restaurant showcase with filtering, cart, and UI animations | React, CSS, JavaScript |
 | **🎯 Gamified Habit Tracker** | Webathon-winning tracker with gamification & gesture quiz | MERN, Tailwind, Chart.js |
 | **💼 Portfolio Website** | Personal interactive portfolio with smooth transitions | React, Vite, TailwindCSS |
+| **🧠 ML Detector** | Detects **fire, falls, and objects** from **images and videos** using YOLOv5 | Python, OpenCV, Flask, YOLOv5 |
 
 ---
 
@@ -45,9 +46,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishithagaddam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
 
 ---
 
